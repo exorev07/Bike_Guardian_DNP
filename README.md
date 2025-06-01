@@ -31,8 +31,17 @@ Bike Guardian is a low-cost, Arduino-powered system designed to alert bicycle ri
 
 This simple yet effective setup improves rider awareness without requiring complex infrastructure or expensive components. 
 
----
-
 ## Summary:
 
 Bike Guardian is an Arduino-based safety system designed to protect cyclists from rear-approaching vehicles. It uses three ultrasonic sensors mounted at the back of the bicycle to detect objects within a 45° field of view. Based on the direction of the approaching vehicle, the system triggers LEDs on the handlebar (left, right, or both), activates a buzzer to alert the rider, and also activates the rear LEDs to alert the approaching traffic in case of low visibility. This enhances situational awareness in real-time, especially in low-visibility conditions, making cycling on busy roads safer and more confident.
+
+---
+
+## 👤 About the Author
+
+**Ekansh Arohi (@exorev07)**  
+Data Science & AI undergrad at IIIT Naya Raipur 
+Passionate about electronics, smart hardware prototyping, and real-world problem solving through tech.
+[🔗 LinkedIn Profile](https://www.linkedin.com/in/ekansharohi)
+
+> “Find what you love and let it kill you.”
