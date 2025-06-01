@@ -1,0 +1,71 @@
+# -----------------------------------
+# Arduino Build Files
+# -----------------------------------
+*.elf
+*.bin
+*.hex
+*.eep
+*.map
+*.o
+*.d
+
+# Arduino Backup Files
+*.bak
+*.tmp
+*.orig
+
+# Arduino Sketch Precompiled Files
+*.cpp
+*.s
+*.lst
+
+# Arduino Libraries Cache
+*.a
+
+# PlatformIO
+.pio/
+.vscode/
+
+# -----------------------------------
+# OS-Specific Files
+# -----------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# -----------------------------------
+# Editor-specific Files
+# -----------------------------------
+# VSCode
+.vscode/
+.history/
+
+# JetBrains (CLion, etc.)
+.idea/
+*.iml
+
+# Vim/Emacs
+*.swp
+*.swo
+*~
+
+# -----------------------------------
+# Arduino IDE Specific (optional)
+# -----------------------------------
+# Uncomment if you don't want compiled files from the Arduino IDE to be tracked
+# build/
+
+# -----------------------------------
+# Logs
+# -----------------------------------
+*.log
+
