@@ -2,7 +2,11 @@
 
 **A smart ultrasonic-based alert system to enhance cyclist safety on roads.**
 
-Bike Guardian is a low-cost, Arduino-powered system designed to alert bicycle riders of approaching vehicles from behind. Using ultrasonic sensors, it detects proximity and provides visual and audio warnings to the cyclist, improving awareness and reducing the risk of accidents.
+## 📝 Project Overview
+
+**Bike Guardian** is a smart safety enhancement system for cyclists, designed as part of a Design and Prototyping course project. The system uses ultrasonic sensors mounted on the rear of a bicycle to detect approaching vehicles. Based on the distance and direction of the detected object, the system alerts the rider strategically through directional LEDs and an audible buzzer.
+
+This affordable, Arduino-based solution aims to reduce the risk of accidents, especially in low-visibility conditions, by enhancing rider awareness in real time. It is modular, easy to mount, and optimised for typical road usage without requiring complex hardware.
 
 ---
 
