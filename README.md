@@ -40,8 +40,8 @@ Bike Guardian is an Arduino-based safety system designed to protect cyclists fro
 ## 👤 About the Author
 
 **Ekansh Arohi (@exorev07)**  
-Data Science & AI undergrad at IIIT Naya Raipur 
-Passionate about electronics, smart hardware prototyping, and real-world problem solving through tech.
+Data Science & AI undergrad at IIIT Naya Raipur     
+Passionate about electronics, smart hardware prototyping, and real-world problem solving through tech.   
 [🔗 LinkedIn Profile](https://www.linkedin.com/in/ekansharohi)
 
 > “Find what you love and let it kill you.”
