@@ -6,6 +6,18 @@ Bike Guardian is a low-cost, Arduino-powered system designed to alert bicycle ri
 
 ---
 
+## 🔩 Components Used
+
+| Component                  | Quantity | Description                             |
+|---------------------------|----------|-----------------------------------------|
+| HC-SR04 Ultrasonic Sensor | 3x       | Detects approaching vehicles            |
+| Red DIP LED               | 3x       | Visual alerts for direction             |
+| 5V Passive Buzzer         | 1x       | Audible alert for proximity warning     |
+| Arduino Uno R3            | 1x       | Microcontroller for processing signals  |
+| 9V Battery + Holder       | 1x       | Power supply for the system             |
+| ABS Brackets              | 3x       | Mount sensors on the bicycle            |
+| Jumper Wires              | As needed | Electrical connections                   |
+
 ## ⚙️ How It Works
 
 - **Three HC-SR04 ultrasonic sensors** are mounted at the rear of the bicycle to detect vehicles within a 45° field.
